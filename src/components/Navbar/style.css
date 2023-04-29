@@ -1,0 +1,30 @@
+.navbar-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #5A2D82;
+    padding: 10px 40px;
+}
+
+.navbar-input {
+    width: 50%;
+    height: 15px;
+    background-color: white;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.navbar-navigation {
+    display: flex;
+    gap: 5px;
+    list-style: none;
+    padding: 5px;
+}
+
+.navbar-navigation-link {
+    color:white;
+    text-decoration: none;
+    font-size:20px;
+    font-weight: bold;
+}
+
