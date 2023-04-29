@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom'
 const Navbar = () => {
   return (
     <div className='navbar-wrapper'>
-        <h1>BFSHOES</h1>
+        <h1>HSportingH</h1>
 
         <input className='navbar-input' placeholder='O que você está procurando?'/>
 

@@ -4,7 +4,7 @@ import './style.css'
 const Footer = () => {
   return (
     <div className='Footer-Wrapper'>
-        Todos os direitos reservados BFTech - {new Date().getFullYear()}
+        Todos os direitos reservados HSportingH® - {new Date().getFullYear()}
     </div>
   )
 }
